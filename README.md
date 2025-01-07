@@ -9,7 +9,7 @@ Welcome to the **DevOps & Development Playbooks Wiki** – your go-to guide for 
 Our Wiki is a growing library of expertly crafted **playbooks** designed to save you time and help you tackle even the most complex setups. Whether you're a seasoned developer, DevOps pro, or just starting, you'll find everything you need here to build, deploy, and manage your projects effectively.
 
 ### 🛠️ **Current Playbooks Include**:
-- **Comprehensive Multi-Project Quasar & Firebase Playbook**  
+- **[Comprehensive Multi-Project Quasar & Firebase Playbook](https://github.com/lasswellt/playbook-library/wiki/Comprehensive-Multi%E2%80%90Project-Quasar-&-Firebase-Playbook)**  
   Master the integration of Quasar with Firebase for large-scale projects.
 
 ---
